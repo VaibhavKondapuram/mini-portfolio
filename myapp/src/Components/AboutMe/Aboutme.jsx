@@ -5,7 +5,7 @@ const Aboutme = () => {
     <section className=" mx-20 flex flex-col text-center items-center text-neutral-800">
       <span className="text-5xl my-10 ">About Me</span>
       <span className="text-2xl">
-        My name is Megha Maurya. I'm pursuing a Web Development Course from the
+        My name is Vaibhav Kondapuram. I'm pursuing a Web Development Course from the
         School of Accelerated Learning. I'm passionate about exploring and
         learning new things and my goal is to pursue this passion within the
         field of web development. In my free time, I like playing musical
