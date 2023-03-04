@@ -14,26 +14,26 @@ const Contact = () => {
         you know of any position available or if you just want to say hi, please
         feel free to email me at,{" "}
         <a href="" className="text-blue-600">
-          meghamini40@gmail.com
+          vaibhavpawanism@gmail.com
         </a>
       </p>
       <div className="flex text-4xl my-6 ">
         <a
-          href="https://github.com/meghamaurya"
+          href="https://github.com/VaibhavKondapuram"
           target="_blank"
           rel="noopener noreferrer"
         >
           <BsGithub className="m-2 hover:text-blue-700" />
         </a>
         <a
-          href="https://www.linkedin.com/in/megha-maurya-21369324b/"
+          href="https://www.linkedin.com/in/vaibhav-kondapuram-1506b698/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <GrLinkedin className="m-2 hover:text-blue-700" />
         </a>
         <a
-          href="https://twitter.com/MeghaMaurya58"
+          href="https://twitter.com/VaibhavPawanist"
           target="_blank"
           rel="noopener noreferrer"
         >
