@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "../cardsImages/dreamlearn.png",
+        "title": "DreamLearn",
+        "description": "A live online musical instrument learning web app build with React App and TailwindCSS",
+        "demo": "https://dreamlearn.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/DreamLearn"
+    },
+    {
+        "id": 2,
+        "imageUrl": "../cardsImages/zomato.png",
+        "title": "Zomato-clone",
+        "description": "Zomato clone is responsive website build with React App and CSS",
+        "demo": "https://zomato-site-clone.netlify.app/",
+        "sourceCode": "https://github.com/meghamaurya/zomato-clone"
+    },
+    {
+        "id": 3,
+        "imageUrl": "../cardsImages/todo.png",
+        "title": "Todo app",
+        "description": "App that helps you to maintain you todo list, this is build with React app, Redux and Bootstrap",
+        "demo": "https://my-todos-app1.netlify.app/",
+        "sourceCode": "https://github.com/meghamaurya/ToDo-List"
+    },
+    {
+        "id": 4,
+        "imageUrl": "../cardsImages/myGPT.png",
+        "title": "MyGPT",
+        "description": "An app similar to chatGPT build with React app, CSS and Javascript",
+        "demo": "https://my-gpt-rxek.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/MyGPT"
+    },
+    {
+        "id": 5,
+        "imageUrl": "../cardsImages/CN.png",
+        "title": "Cartoon Network Clone",
+        "description": "Clone of home page of Cartoon Network build with React app, CSS and Javascript",
+        "demo": "https://cartoon-network-clone.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/Cartoon-network-clone"
+    },
+    {
+        "id": 6,
+        "imageUrl": "../cardsImages/wargame.png",
+        "title": "War Game",
+        "description": "A war card game build with HTML5, CSS and Javascript",
+        "demo": "https://war-card-game-three.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/war-card-game"
+    },
+    {
+        "id": 7,
+        "imageUrl": "../cardsImages/piccachu.png",
+        "title": "Piccachu Puzzle",
+        "description": "A fun puzzle, build with HTML, CSS and jQuery",
+        "demo": "https://picachhu-img-puzzle.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/picachhu-img-puzzle"
+    },
+    {
+        "id": 8,
+        "imageUrl": "../cardsImages/agecalculator.png",
+        "title": "Age Calculator",
+        "description": "App for calculating the age, this is build with HTML, CSS and Javascript",
+        "demo": "https://age-calculator-sand.vercel.app/",
+        "sourceCode": "https://github.com/meghamaurya/age-calculator"
+    }
+]
